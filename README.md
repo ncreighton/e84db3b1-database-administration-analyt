@@ -1,2 +1,34 @@
-# e84db3b1-database-administration-analyt
-Every database admin professionals needs this — most just don't know it yet.  Easy setup: invite → configure → active in under 10 minutes. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Database Administration Analytics And Engagement Report — fully configured and ready to use - Slash command interfac
+# Database Administration Analytics and Engagement Report Bot
+
+Track member activity, popular channels, peak times, and growth trends. Community data without expensive analytics platforms.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A8wP9z9cYI9JK6fycZH2t)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A8wP9z9cYI9JK6fycZH2t)
+
